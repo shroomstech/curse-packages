@@ -1,8 +1,7 @@
 The Official Cursed Project AUR Repository
 
 how to add:<br>
-<code>
-[curse]<br>
+<code>[curse]<br>
 SigLevel = Optional TrustAll<br>
 Server = https://raw.githubusercontent.com/shroomstech/curse-packages/main/$arch
 </code>
